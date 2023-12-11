@@ -1,10 +1,3 @@
-# checkEBOwner
+# humanoid creation loop (patched)
 
-
-
-
-
-
-
-
-eae familia
+vao se foderem

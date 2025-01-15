@@ -1,3 +1,3 @@
-# humanoid creation loop
+# geraçao de fases
 
-vao se foderem
+por favor nao me julguem sou iniciante

@@ -1,3 +1,3 @@
-# humanoid creation loop (patched)
+# humanoid creation loop
 
 vao se foderem
